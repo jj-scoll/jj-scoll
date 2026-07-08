@@ -16,3 +16,7 @@ DevOps engineer working mostly on security engineering and detection tooling.
 
 > Most of my day-to-day work lives in private and work repositories, so my
 > public activity here is only a slice of it.
+
+---
+
+☁️ AWS · 🐍 Python · ❄️ Nix
